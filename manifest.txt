@@ -1,4 +1,7 @@
+greek-sheet-pan-chicken-lemon-potatoes.md
 jacks-delicious-mac-and-cheese.md
+korean-gochujang-beef-bowls.md
 malaysian-nasi-lemak-chicken.md
+moroccan-chicken-tagine.md
 sunday-sauce.md
 weeknight-chili.md

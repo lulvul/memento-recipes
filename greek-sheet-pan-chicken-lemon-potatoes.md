@@ -1,10 +1,11 @@
-# **Greek Sheet-Pan Chicken & Lemon Potatoes**
+GREEK SHEET-PAN CHICKEN & LEMON POTATOES
 
-**Serves 8 · 60 min**
+Serves 8 · 60 min
 
-## **Ingredients**
 
-### Chicken and potatoes
+INGREDIENTS
+
+Chicken and potatoes
 - 8 chicken thighs
 - 1200 g potatoes, cut in wedges
 - 90 g olive oil
@@ -14,14 +15,15 @@
 - salt, to taste
 - black pepper, to taste
 
-### Tzatziki
+Tzatziki
 - 300 g greek yogurt
 - 1 cucumber, grated
 - 2 cloves garlic, minced
 - 14 g olive oil
 - salt, to taste
 
-## **Steps**
+
+STEPS
 
 1. Heat the oven to 425°F (220°C).
 

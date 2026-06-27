@@ -1,8 +1,9 @@
-# **Sunday Sauce**
+SUNDAY SAUCE
 
-**Serves 6 · 3h 30m**
+Serves 6 · 3h 30m
 
-## **Ingredients**
+
+INGREDIENTS
 
 - 28 g olive oil
 - 450 g pork ribs or italian sausage
@@ -12,7 +13,8 @@
 - 240 g red wine
 - basil, salt, pepper, to taste
 
-## **Steps**
+
+STEPS
 
 1. Brown the meat in oil, then set aside.
 

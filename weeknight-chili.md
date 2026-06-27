@@ -1,8 +1,9 @@
-# **Weeknight Chili**
+WEEKNIGHT CHILI
 
-**Serves 4 · 50 min**
+Serves 4 · 50 min
 
-## **Ingredients**
+
+INGREDIENTS
 
 - 450 g ground beef
 - 1 onion, diced
@@ -13,7 +14,8 @@
 - 1 can kidney beans, drained
 - 240 g beef stock
 
-## **Steps**
+
+STEPS
 
 1. Brown the beef in a heavy pot. Push to the side.
 

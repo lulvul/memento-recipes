@@ -1,10 +1,11 @@
-# **Malaysian Nasi Lemak Chicken**
+MALAYSIAN NASI LEMAK CHICKEN
 
-**Serves 4 · 80 min**
+Serves 4 · 80 min
 
-## **Ingredients**
 
-### Roast chicken
+INGREDIENTS
+
+Roast chicken
 - 9 chicken drumsticks
 - 60 g red curry paste
 - 64 g coconut milk
@@ -12,7 +13,7 @@
 - 8 g avocado oil
 - salt, to taste
 
-### Sambal ikan bilis
+Sambal ikan bilis
 - 6 shallots
 - 37 g anchovy paste
 - 18 g avocado oil
@@ -22,32 +23,33 @@
 - 5 g shrimp paste
 - 2 cloves garlic
 
-### Coconut rice
+Coconut rice
 - 225 g jasmine rice
 - 160 g coconut milk
 - 158 g water
 - salt, to taste
 
-### Pickled cucumber
+Pickled cucumber
 - 1 cucumber, thinly sliced
 - 26 g rice wine vinegar
 - 26 g water
 - 3 g granulated sugar
 - salt, to taste
 
-### To serve
+To serve
 - 4 eggs, hard-boiled
 
-## **Steps**
 
-1. **Roast chicken.** Mix red curry paste, coconut milk, salt, sugar, and avocado oil. Coat the drumsticks and rest at least 20 minutes (or overnight for stronger flavor). Heat the oven to 375°F (190°C). Roast 30-40 minutes, until the internal temp reaches 165°F (74°C).
+STEPS
 
-2. **Sambal ikan bilis.** Finely chop the shallots, garlic, and anchovy paste. Heat the avocado oil over medium. Sauté the shallots, garlic, and anchovy paste until fragrant. Add the espelette pepper, shrimp paste, sugar, and tamarind concentrate. Cook until it becomes a thick paste.
+1. ROAST CHICKEN. Mix red curry paste, coconut milk, salt, sugar, and avocado oil. Coat the drumsticks and rest at least 20 minutes (or overnight for stronger flavor). Heat the oven to 375°F (190°C). Roast 30-40 minutes, until the internal temp reaches 165°F (74°C).
 
-3. **Coconut rice.** Combine the jasmine rice, coconut milk, water, and salt in a pot. Stir. Bring to a boil, reduce to a simmer, cover, and cook 15-20 minutes until tender and the liquid is absorbed.
+2. SAMBAL IKAN BILIS. Finely chop the shallots, garlic, and anchovy paste. Heat the avocado oil over medium. Sauté the shallots, garlic, and anchovy paste until fragrant. Add the espelette pepper, shrimp paste, sugar, and tamarind concentrate. Cook until it becomes a thick paste.
 
-4. **Pickled cucumber.** Dissolve the sugar, salt, rice wine vinegar, and water in a bowl. Thinly slice the cucumber and submerge in the brine. Rest at least 15 minutes before serving.
+3. COCONUT RICE. Combine the jasmine rice, coconut milk, water, and salt in a pot. Stir. Bring to a boil, reduce to a simmer, cover, and cook 15-20 minutes until tender and the liquid is absorbed.
 
-5. **Boiled egg.** Hard-boil the eggs, peel, and halve for serving.
+4. PICKLED CUCUMBER. Dissolve the sugar, salt, rice wine vinegar, and water in a bowl. Thinly slice the cucumber and submerge in the brine. Rest at least 15 minutes before serving.
 
-6. **Assemble.** Serve the roast chicken with the coconut rice. Add a scoop of sambal ikan bilis and the pickled cucumber. Garnish with the egg halves.
+5. BOILED EGG. Hard-boil the eggs, peel, and halve for serving.
+
+6. ASSEMBLE. Serve the roast chicken with the coconut rice. Add a scoop of sambal ikan bilis and the pickled cucumber. Garnish with the egg halves.

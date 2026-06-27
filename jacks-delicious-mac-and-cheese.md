@@ -1,8 +1,9 @@
-# **Mac and Cheese**
+MAC AND CHEESE
 
-**Serves 6 · 45 min**
+Serves 6 · 45 min
 
-## **Ingredients**
+
+INGREDIENTS
 
 - 450 g elbow pasta
 - 42 g butter
@@ -14,7 +15,8 @@
 - black pepper, to taste
 - nutmeg, a pinch
 
-## **Steps**
+
+STEPS
 
 1. Boil pasta until just shy of al dente. Drain.
 

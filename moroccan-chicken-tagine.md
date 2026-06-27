@@ -1,8 +1,9 @@
-# **Moroccan Chicken Tagine with Chickpeas & Apricots**
+MOROCCAN CHICKEN TAGINE WITH CHICKPEAS & APRICOTS
 
-**Serves 8 · 70 min**
+Serves 8 · 70 min
 
-## **Ingredients**
+
+INGREDIENTS
 
 - 8 chicken thighs
 - 28 g olive oil
@@ -20,7 +21,8 @@
 - salt, to taste
 - black pepper, to taste
 
-## **Steps**
+
+STEPS
 
 1. Season the chicken with salt and pepper. Brown it in the olive oil in a large pot, then set aside.
 

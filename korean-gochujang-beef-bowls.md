@@ -1,8 +1,9 @@
-# **Korean Gochujang Beef Bowls**
+KOREAN GOCHUJANG BEEF BOWLS
 
-**Serves 8 · 35 min**
+Serves 8 · 35 min
 
-## **Ingredients**
+
+INGREDIENTS
 
 - 900 g ground beef
 - 370 g jasmine rice
@@ -17,7 +18,8 @@
 - 12 g sesame seeds
 - salt, to taste
 
-## **Steps**
+
+STEPS
 
 1. Cook the jasmine rice.
 

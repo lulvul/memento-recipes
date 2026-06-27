@@ -1,8 +1,9 @@
-# Mac and Cheese
+# **Mac and Cheese**
 
-<!-- meta: serves=6 | time=45m | tags=pasta,comfort,baked -->
+**Serves 6 · 45 min**
 
-## Ingredients
+## **Ingredients**
+
 - 450 g elbow pasta
 - 42 g butter
 - 24 g all-purpose flour
@@ -13,19 +14,7 @@
 - black pepper, to taste
 - nutmeg, a pinch
 
-<!-- ingredients
-elbow pasta | 450 | g |
-butter | 42 | g |
-all-purpose flour | 24 | g |
-whole milk | 720 | g |
-sharp cheddar | 200 | g | grated
-gruyere | 100 | g | grated
-salt | 0 | to-taste |
-black pepper | 0 | to-taste |
-nutmeg | 1 | pinch |
--->
-
-## Steps
+## **Steps**
 
 1. Boil pasta until just shy of al dente. Drain.
 
